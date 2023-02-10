@@ -13,17 +13,17 @@ Full Stack Developer :rocket: from Argentina to :earth_americas:
 ## :pushpin: My Proyects:
 
 <a href="https://github.com/gon2santos/Barbershop-e-commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gon2santos&repo=Barbershop-e-commerce&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gon2santos&repo=Barbershop-e-commerce&theme=transparent" />
 </a>
 <a href="https://github.com/gon2santos/The-Foods-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gon2santos&repo=The-Foods-App&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gon2santos&repo=The-Foods-App&theme=transparent" />
 </a>
 
 ## 👨‍💻 My Stats:
 
 <a href="https://github.com/gon2santos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gon2santos&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gon2santos&layout=compact&theme=transparent" />
 </a>
 <a href="https://github.com/gon2santos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gon2santos&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gon2santos&show_icons=true&theme=transparent" />
 </a>

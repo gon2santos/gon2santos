@@ -24,6 +24,3 @@ Full Stack Developer :rocket: from Argentina to :earth_americas:
 <a href="https://github.com/gon2santos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gon2santos&layout=compact&theme=transparent" />
 </a>
-<a href="https://github.com/gon2santos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gon2santos&show_icons=true&theme=transparent" />
-</a>

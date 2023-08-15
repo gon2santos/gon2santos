@@ -4,7 +4,7 @@
 Full Stack Developer :rocket: from Argentina to :earth_americas:
 </h2>
 
-<h3 align="center">Hi 👋 I'm Gonza, a programming hobbyist and illustrator turned professional web developer.</h3>
+<h3 align="center">Hi 👋 I'm Gonza, professional web developer and illustrator.</h3>
 
 ## :star: Languages and Tools:
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
